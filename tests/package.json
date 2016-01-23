@@ -5,10 +5,5 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
-  },
-  "dependencies": {
-    "react": "^0.13.3", 
-    "request": "^2.53.0",
-    "seneca": "^0.9.3"
   }
 }
